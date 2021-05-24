@@ -1,0 +1,4 @@
+﻿  59.2.cpp
+C:\Users\nikas\source\repos\59.2\59.2.cpp(23,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nikas\source\repos\59.2\59.2.cpp(24,27): warning C4018: '<': signed/unsigned mismatch
+  59.2.vcxproj -> C:\Users\nikas\source\repos\59.2\Debug\59.2.exe
